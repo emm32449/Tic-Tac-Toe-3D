@@ -4,7 +4,7 @@ Tic Tac Toe 3D is a community-driven project that aims to create a more complex 
 
 ## Table of Contents
 
-- Installation
+- Preview
 - Features
 - License
 - Contributing
