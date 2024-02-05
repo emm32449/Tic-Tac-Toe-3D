@@ -10,7 +10,7 @@ Tic Tac Toe 3D is a community-driven project that aims to create a more complex 
 - Contributing
 - Acknowledgements
 
-## Installation
+## Preview
 
 To run Tic Tac Toe 3D, follow these steps:
 
