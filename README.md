@@ -32,6 +32,12 @@ Tic Tac Toe 3D has the following features:
 Tic Tac Toe 3D is licensed under the MIT License. See LICENSE for more details.
 
 ## Contributing
+Our project aims to create a 3D version of the classic Tic Tac Toe game, using the MCTS algorithm and a neural network to train an intelligent agent. We are always open to new ideas and suggestions to make our project better and more enjoyable. You can contribute to Tic Tac Toe 3D w/MCTS in two main ways:
+
+- Machine Learning Part: You can help us improve the learning process by adding new features, optimizing the code, or trying different hyperparameters. You can also propose new games or domains that can be tackled by the MCTS algorithm and the neural network.
+- Game & Evaluation Part: You can help us enhance the game experience by adding new rules, Google Colab Widgets, or Python Code. You can also evaluate the agent's performance and strategy by playing against it or analyzing its moves.
+
+Whether you are a machine learning fan, a game lover, or a curious explorer, you are welcome to join our community of AI and gaming enthusiasts. You will also learn new skills and gain valuable experience along the way. We appreciate your interest and support in our project and we hope you have fun with it as much as we do.
 
 Tic Tac Toe 3D welcomes contributions from anyone who wants to improve or enhance the project. To contribute, please follow these steps:
 
