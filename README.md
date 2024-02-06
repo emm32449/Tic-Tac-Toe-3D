@@ -49,7 +49,7 @@ Contributing to an open source project is a rewarding and fun way to learn new s
 Tic Tac Toe 3D was inspired by or uses the following resources:
 
 - AlphaGo Zero: A paper by DeepMind that describes how they created a self-learning program that mastered the game of Go
-- Microsoft Copilot (formerly Bing Chat): An AI companion that helped us write this README and some parts of the code
+- Microsoft Copilot (formerly Bing Chat): An AI companion that helped us write this README and the code
 - Tic Tac Toe: A classic game that we all love and enjoy
 
 Thank you for your interest in Tic Tac Toe 3D. We hope you enjoy playing it or contributing to it. If you have any questions or feedback, please feel free to contact us at emm32449@gmail.com.
