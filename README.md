@@ -18,6 +18,8 @@ To run Tic Tac Toe 3D, follow these steps:
 - Run the cells in the notebook to try it out.
 - Enjoy playing Tic Tac Toe 3D!
 
+![ttt 3d](https://github.com/count-rostov/Tic-Tac-Toe-3D/assets/159494114/936a6fba-7f53-4bc0-bd2f-49cdc02e0a30)
+
 ## Features
 
 Tic Tac Toe 3D has the following features:
