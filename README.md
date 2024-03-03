@@ -1,6 +1,10 @@
 # Tic Tac Toe 3D
 
-Tic Tac Toe 3D is a community-driven project that aims to create a more complex and challenging version of the classic game across three dimensions. It is built with Python and Pytorch and runs on Google Colab. It uses a program design similar to AlphaGo Zero to train its model. One eventual goal of the model is to have it be better than human players at the game. It is also open source and licensed under the MIT license.
+Greetings, esteemed AI enthusiast. Prepare to immerse yourself in the realm of Tic Tac Toe 3D, a veritable goldmine for machine learning aficionados keen to experiment with a simplified rendition of AlphaGo Zero. Recall AlphaGo Zero? The autonomous learning algorithm that astounded the world with its unparalleled prowess in the game of Go, devoid of any human instruction or intervention. Within this repository, you will discover PyTorch code and a Google Colab notebook that modifies a Monte Carlo Tree Search (MCTS) algorithm for an intriguing 3D Tic Tac Toe game.
+
+The rules of the game are straightforward yet captivating: players take turns placing their mark in a 3x3x3 grid, aiming to align three of their marks in any direction - horizontally, vertically, or diagonally, without the constraint of a single plane. It’s a game that’s easy to comprehend and implement, yet it presents a myriad of challenges for those beginning their journey into model training with an Alpha Zero-like algorithm. Subsequently, when you feel prepared, embrace the game’s complexity and the algorithm’s sophistication, even consider delving into distributed computing and generalized games.
+
+Thus, we cordially invite you to join us on this exhilarating exploration of AI’s remarkable capabilities and potential! Engage with our code, notebook, and model. We eagerly anticipate your contributions and feedback.
 
 ## Table of Contents
 
